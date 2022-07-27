@@ -5,7 +5,7 @@ module TwoFer =
         | None -> "One for you, one for me."
 
 
-//examples
+//Examples
 let name = Some("Tariq")
 TwoFer.twoFer name
 

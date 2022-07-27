@@ -4,8 +4,8 @@ module TwoFer =
         | Some(x) -> "One for " + x + ", one for me."
         | None -> "One for you, one for me."
 
-//example
 
+//examples
 let name = Some("Tariq")
 TwoFer.twoFer name
 
